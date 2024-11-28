@@ -1,0 +1,14 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "eevee-card.arreferenceimage"
+    },
+    {
+      "filename" : "oddish-card.arreferenceimage"
+    }
+  ]
+}
